@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234695717285",
+    "project_id": "avataradefence",
+    "storage_bucket": "avataradefence.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234695717285:android:a92958d453f3821559f84c",
+        "android_client_info": {
+          "package_name": "com.example.avataradefence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPaRh1TJ_VKb_bNfW1JkK5DxbI-NCOGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

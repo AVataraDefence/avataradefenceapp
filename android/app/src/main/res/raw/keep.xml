@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The push-notification chime (res/raw/notification.mp3) is only referenced by NAME at run
+  time (the Android notification channel + the server's "sound" field), so the release
+  build's resource shrinker would otherwise delete it and notifications would be silent.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/notification" />
